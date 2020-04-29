@@ -303,6 +303,8 @@ section{margin-bottom: 80px;}
   height: 40px;
 }
 
+/*Tc films styling ends here*/
+
 /* button stylying starts here */
 .btn{
   text-align: center;
@@ -355,7 +357,28 @@ section{margin-bottom: 80px;}
 }
 /* health reflection tool styling ends here*/
 
-/*Tc films styling ends here*/
+/*Campaign styling starts here*/
+
+.campaign{
+  width: 50%;
+  margin: 0 auto;
+}
+
+.campaign h2{
+  padding: 20px 0 0 0;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.campaign p{
+  text-align: center;
+  padding: 20px 0;
+  line-height: 1.5;
+  color: #514a4a;
+}
+
+/*Campaign styling ends here*/
 /*=================================
   main styling ends here
 =================================*/
