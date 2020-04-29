@@ -113,8 +113,8 @@ li {
 .logo{
   width: 200px;
   display: inline-block;
-  margin-left:22px;
-  margin-right:22px;
+  margin-left: 22px;
+  margin-right: 22px;
 }
 
 h1 a img{width: 200px;}
@@ -386,12 +386,152 @@ section{margin-bottom: 80px;}
 /*=================================
   footer styling starts here
 =================================*/ 
+.footr{background-color: rgb(224,224,225);}
 
+.f-flex{
+  width: 85%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  padding: 50px;
+  border-bottom: 0.6px solid;
+  border-color:rgba(151,151,153);  
+}
 
+.f1{
+  width: 200px;
+  border-right: 0.5px solid;
+  border-color:rgba(151,151,153);  
+}
 
+.f-logo{
+  width: 154px;
+  height: 60px;
+}
 
+.f-logo a{padding: 20px 0;}
 
+.f2{
+  width: 200px;
+  padding: 0 50px 0 50px;
+  border-right: 0.5px solid;
+  border-color: rgba(151,151,153);
+}
 
+.list1{
+  width: 60%;
+  float: left;
+}
+
+.list1>ul>li>a:hover,
+.list2>ul>li>a:hover{color: rgba(52,173,242);}
+
+.list2{
+  width: 40%;
+  float: left;
+}
+.list1 li{display: block;}
+
+.list2 li{display: block;}
+
+.list1 li a,
+.list2 li a{
+  line-height: 2;
+  color: rgb(102, 97, 97);
+  font-size: 12px;
+}
+.f3{
+  padding: 0 50px;
+  border-right: 0.5px solid;
+  border-color: rgba(151,151,153); 
+}
+.fhead1 h3{
+  line-height: 2;
+  font-weight: bold;
+  font-size: 15px;
+}
+.facebook a,
+.youtube a,
+.twitter a {
+  color: rgb(102, 97, 97);
+  padding: 0 10px;
+  font-size: 14px;
+}
+.facebook a:hover,
+.youtube a:hover,
+.twitter a:hover{color: rgba(52,173,242);}
+
+.facebook .fab.fa-facebook,
+.youtube .fab.fa-youtube,
+.twitter .fab.fa-twitter{
+  font-size: 12px;
+  padding: 5px;
+  border: 0.6px solid;
+  border-radius: 20px;
+  border-color:rgba(151,151,153); 
+  color: rgba(151,151,153);
+  margin: 3px;
+}
+
+.facebook .fab.fa-facebook:hover,
+.youtube .fab.fa-youtube:hover,
+.twitter .fab.fa-twitter:hover{color: rgba(52,173,242);}
+
+.f4{
+  width: 270px;
+  margin: 0 auto;
+}
+.fhead h3{
+  line-height: 2;
+  font-weight: bold;
+  font-size: 15px;
+}
+.moto{
+  font-size: 12.84666px;
+  padding: 0 28px 0 0;
+  text-align: justify;
+}
+.moto p{color: rgba(151,151,153);}
+
+.email{padding: 20px 0;}
+
+.email .fas.fa-envelope{
+  font-size: 12px;
+  padding: 5px;
+  border: 0.6px solid;
+  border-radius: 20px;
+  border-color:rgba(151,151,153); 
+  color: rgba(151,151,153);
+  margin: 3px;
+}
+.email .fas.fa-envelope:hover,
+.email a:hover{color: rgba(52,173,242);}
+
+.email a{
+  font-size: 12px;
+  color: rgb(102, 97, 97);
+}
+
+.fctpr{padding: 20px 45px;}
+
+.terms{
+  display: inline;
+  margin-right: 30px;
+}
+
+.privacy{display: inline;}
+
+.rights{float: right;}
+
+.terms a,
+.privacy a,
+.rights a{
+  font-size: 12px;
+  color: rgb(102, 97, 97);
+}
+
+.terms a:hover,
+.privacy a:hover{color: rgba(52,173,242);}
 
  /*=================================
   footer styling ends here
