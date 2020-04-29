@@ -286,6 +286,25 @@ section{ margin-bottom: 80px; }
   background-size: cover;
 }
 
+/* Modal styling */
+.modal{
+  position: absolute;
+  left: 500px;
+  background: black;
+  width: 350px;
+  display: none;
+}
+.cbutton{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  float: right;
+  cursor: pointer;
+}
+video{
+  padding:10px 15px;
+}
+/* end*/
 .abtvideo{
   width: 60%;
   float: left;
