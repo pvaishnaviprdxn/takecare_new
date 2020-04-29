@@ -117,7 +117,7 @@ li {
   margin-right: 22px;
 }
 
-h1 a img{width: 200px;}
+h1 a img{ width: 200px; }
 
 .menu{
   width: 742px;
@@ -131,16 +131,16 @@ nav a{
   font-size: 14px;
 }
 
-nav a:hover{color: rgba(52,173,242);}
+nav a:hover{ color: rgba(52,173,242); }
 
-.social{display: inline-block;}
+.social{ display: inline-block; }
 
 .medium a{
   padding: 0 3px;
   color: rgba(151,151,153);
 }
 
-.medium a:hover{color: rgba(52,173,242);}
+.medium a:hover{ color: rgba(52,173,242); }
 
 /*=================================
   Header styling ends here
@@ -149,7 +149,7 @@ nav a:hover{color: rgba(52,173,242);}
 /*=================================
   main styling starts here
 =================================*/
-section{margin-bottom: 80px;}
+section{ margin-bottom: 80px; }
 
 /*banner style starts here*/
 .banner{
@@ -159,7 +159,7 @@ section{margin-bottom: 80px;}
 }
 /*banner style ends here*/
 /* quote style starts here */
-.tcquote{background-color:rgb(93,5,141);}
+.tcquote{ background-color: rgb(93,5,141); }
 
 .tcquote h2{
   text-align: center;
@@ -171,7 +171,7 @@ section{margin-bottom: 80px;}
 /* quote style ends here */
 
 /* slider style starts here */
-.slides{position: relative;}
+.slides{ position: relative; }
 
 .slide{
   position: absolute;
@@ -181,7 +181,7 @@ section{margin-bottom: 80px;}
 
 .slide{
   width: 100%;
-  height:543.33px;
+  height: 543.33px;
   color: black;
   font-weight: bold;
   font-size: 25px;
@@ -275,7 +275,7 @@ section{margin-bottom: 80px;}
   width: 38%;
   float: left;
   height: 200px;
-  background-image:url(../images/video_image.jpg);
+  background-image: url(../images/video_image.jpg);
   background-size: cover;
 }
 
@@ -316,11 +316,11 @@ section{margin-bottom: 80px;}
   text-transform: uppercase;
   font-weight: bold;
   color: white;
-  background-color:rgba(52,173,242);
+  background-color: rgba(52,173,242);
 }
 
 .btn a:hover{
-  background-color:white;
+  background-color: white;
   color: rgba(52,173,242);
   border: 1px solid;
 }
@@ -395,13 +395,13 @@ section{margin-bottom: 80px;}
   margin: 0 auto;
   padding: 50px;
   border-bottom: 0.6px solid;
-  border-color:rgba(151,151,153);  
+  border-color: rgba(151,151,153);  
 }
 
 .f1{
   width: 200px;
   border-right: 0.5px solid;
-  border-color:rgba(151,151,153);  
+  border-color: rgba(151,151,153);  
 }
 
 .f-logo{
@@ -409,7 +409,7 @@ section{margin-bottom: 80px;}
   height: 60px;
 }
 
-.f-logo a{padding: 20px 0;}
+.f-logo a{ padding: 20px 0; }
 
 .f2{
   width: 200px;
@@ -424,15 +424,15 @@ section{margin-bottom: 80px;}
 }
 
 .list1>ul>li>a:hover,
-.list2>ul>li>a:hover{color: rgba(52,173,242);}
+.list2>ul>li>a:hover{ color: rgba(52,173,242); }
 
 .list2{
   width: 40%;
   float: left;
 }
-.list1 li{display: block;}
+.list1 li{ display: block; }
 
-.list2 li{display: block;}
+.list2 li{ display: block; }
 
 .list1 li a,
 .list2 li a{
@@ -468,14 +468,14 @@ section{margin-bottom: 80px;}
   padding: 5px;
   border: 0.6px solid;
   border-radius: 20px;
-  border-color:rgba(151,151,153); 
+  border-color: rgba(151,151,153); 
   color: rgba(151,151,153);
   margin: 3px;
 }
 
 .facebook .fab.fa-facebook:hover,
 .youtube .fab.fa-youtube:hover,
-.twitter .fab.fa-twitter:hover{color: rgba(52,173,242);}
+.twitter .fab.fa-twitter:hover{ color: rgba(52,173,242); }
 
 .f4{
   width: 270px;
@@ -491,9 +491,9 @@ section{margin-bottom: 80px;}
   padding: 0 28px 0 0;
   text-align: justify;
 }
-.moto p{color: rgba(151,151,153);}
+.moto p{ color: rgba(151,151,153); }
 
-.email{padding: 20px 0;}
+.email{ padding: 20px 0; }
 
 .email .fas.fa-envelope{
   font-size: 12px;
@@ -505,23 +505,23 @@ section{margin-bottom: 80px;}
   margin: 3px;
 }
 .email .fas.fa-envelope:hover,
-.email a:hover{color: rgba(52,173,242);}
+.email a:hover{ color: rgba(52,173,242); }
 
 .email a{
   font-size: 12px;
   color: rgb(102, 97, 97);
 }
 
-.fctpr{padding: 20px 45px;}
+.fctpr{ padding: 20px 45px; }
 
 .terms{
   display: inline;
   margin-right: 30px;
 }
 
-.privacy{display: inline;}
+.privacy{ display: inline; }
 
-.rights{float: right;}
+.rights{ float: right; }
 
 .terms a,
 .privacy a,
