@@ -106,9 +106,41 @@ li {
 /*=================================
   Header styling starts here
 =================================*/
+.head{
+  width: 85%;
+  margin: 2.5% 10% 2.5% 10%;
+}
+.logo{
+  width: 200px;
+  display: inline-block;
+  margin-left:22px;
+  margin-right:22px;
+}
 
+h1 a img{width: 200px;}
 
+.menu{
+  width: 742px;
+  display: inline-block;
+}
 
+nav a{
+  margin: 0 50px 0 10px;
+  text-transform: uppercase;
+  color: black;
+  font-size: 14px;
+}
+
+nav a:hover{color: rgba(52,173,242);}
+
+.social{display: inline-block;}
+
+.medium a{
+  padding: 0 3px;
+  color: rgba(151,151,153);
+}
+
+.medium a:hover{color: rgba(52,173,242);}
 
 
 
